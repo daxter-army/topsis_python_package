@@ -6,7 +6,7 @@ def readme():
     return README
 
 setup(
-    name = "topsisValueCalculator",
+    name = "calctopsis",
     version = "0.0.1",
     license = "MIT",
     description = "A Python package to find TOPSIS for multi-criteria decision analysis method",
