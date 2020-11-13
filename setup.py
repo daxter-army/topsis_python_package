@@ -11,7 +11,7 @@ setup(
     license = "MIT",
     description = "A Python package to find TOPSIS for multi-criteria decision analysis method",
     long_description = readme(),
-    long_description_content_type = "text",
+    long_description_content_type = "text/markdown",
     author = "Mehul Singh Teya",
     author_email = "mehulsinghteya@gmail.com",
     url = "https://github.com/daxter-army/topsis_python_package",
