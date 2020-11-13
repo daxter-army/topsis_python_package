@@ -1,3 +1,7 @@
+# Mehul Singh Teya
+# 101816021
+# DS Assignment 6
+
 #IMPORTING ESSENTIAL LIBRARIES
 from tabulate import tabulate
 from os import path

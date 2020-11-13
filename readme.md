@@ -5,13 +5,10 @@
 
 * Just provide your input attributes and it will give you the results
 
-
-## Installation
-
-`$ pip install calctopsis`
+## How to Use
 
 In the commandline, you can write as -
-`$ python <package_name> <path to input_data_file_name> <weights as strings> <impacts as strings> <result_file_name>`
+`$ python topsis.py <path to input_data_file_name> <weights as strings> <impacts as strings> <result_file_name>`
 
 E.g for input data file as data.csv, command will be like
 `$ python topsis.py data.csv "1,1,1,1" "+,+,-,+" output.csv`
