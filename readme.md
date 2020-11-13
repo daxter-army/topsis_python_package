@@ -11,7 +11,7 @@
 `$ pip install calctopsis`
 
 In the commandline, you can write as -
-`$ python <script_name> <path to input_data_file_name> <weights as strings> <impacts as strings> <result_file_name>`
+`$ python <package_name> <path to input_data_file_name> <weights as strings> <impacts as strings> <result_file_name>`
 
 E.g for input data file as data.csv, command will be like
 `$ python topsis.py data.csv "1,1,1,1" "+,+,-,+" output.csv`

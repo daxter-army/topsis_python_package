@@ -16,11 +16,9 @@ setup(
     author_email = "mehulsinghteya@gmail.com",
     url = "https://github.com/daxter-army/topsis_python_package",
     keywords = ['topsis', 'UCS538', 'TIET'],
-    install_requires = [
-        'pandas',
-        'tabulate'
-    ],
+    packages = find_packages(),
     include_package_data = True,
+    install_requires = ['pandas, tabulate'],
     classifiers = [
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Student Developers',
