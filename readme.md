@@ -7,11 +7,13 @@
 
 ## How to Use
 
-In the commandline, you can write as -
+<!-- In the commandline, you can write as -
 `$ python topsis.py <path to input_data_file_name> <weights as strings> <impacts as strings> <result_file_name>`
 
 E.g for input data file as data.csv, command will be like
-`$ python topsis.py data.csv "1,1,1,1" "+,+,-,+" output.csv`
+`$ python topsis.py data.csv "1,1,1,1" "+,+,-,+" output.csv` -->
+
+Just refer to the .ipynb file
 
 This will print all the output attribute values along with the Rank column, in a tabular format
 
