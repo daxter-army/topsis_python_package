@@ -5,7 +5,7 @@
 
 * Just provide your input attributes and it will give you the results
 
-## How to Use
+## 🚲 How to Use
 
 <!-- In the commandline, you can write as -
 `$ python topsis.py <path to input_data_file_name> <weights as strings> <impacts as strings> <result_file_name>`
@@ -17,5 +17,5 @@ Just refer to the .ipynb file
 
 This will print all the output attribute values along with the Rank column, in a tabular format
 
-## License
+## 📎 License
 MIT
